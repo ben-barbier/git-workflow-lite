@@ -22,7 +22,7 @@ Pour développer une nouvelle feature, il faut tout d'abord commencer par créer
 
 ![flow2](https://raw.githubusercontent.com/ben-barbier/git-workflow-lite/master/pictures/flow2.png)
 
-Une feature sera donc réalisée sur une branche et contiendra un ensemble de commits.
+Une feature sera donc réalisée sur une branche à part et contiendra un ensemble de commits.
 
 Pour créer le premier commit :
 
